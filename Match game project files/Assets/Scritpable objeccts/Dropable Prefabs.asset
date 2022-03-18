@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a72efa3151d6d4daafbdaf521918a6, type: 3}
+  m_Name: Dropable Prefabs
+  m_EditorClassIdentifier: 
+  ballPrefab: {fileID: 8217748606613781780, guid: cfff07ae698f3c34daa52ec99e48a933,
+    type: 3}
+  blockPrefab: {fileID: 4846129521252004980, guid: 124b0ea6e03f69c4fb849b1447eebc8a,
+    type: 3}
+  bombPrefab: {fileID: 6066760921903876336, guid: 85c0585f789282641b4f2af4ba623470,
+    type: 3}
+  balloonPrefab: {fileID: 3554377321010514474, guid: aae7051e5addd2b4aa26ba5b9975f3e5,
+    type: 3}
+  eggPrefab: {fileID: 8283011795002195691, guid: c764358574d83d642a79fb5bd4873850,
+    type: 3}

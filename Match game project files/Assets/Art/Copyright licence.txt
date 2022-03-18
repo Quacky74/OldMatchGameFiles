@@ -1,0 +1,21 @@
+﻿/***Art work***/
+
+2D Space Kit
+https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662
+
+Bay at games art assets
+https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838
+
+
+Make War not Love - Assets Pack Author Idznak
+https://idznak.itch.io/make-war-not-love-assets-pack
+
+Rockets Bombs and Missiles Pack Author AurynSky
+https://aurynsky.itch.io/rockets-bombs-and-missiles-pack-3d-assets
+
+Pixel Art Icon Pack - RPG
+https://assetstore.unity.com/packages/2d/gui/icons/pixel-art-icon-pack-rpg-158343
+
+/***Code***/
+Draw line Author Nathan from info gamer
+https://www.youtube.com/watch?v=pa_U64G7gkE&t=2s
